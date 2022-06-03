@@ -1,7 +1,7 @@
 <template>
   <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/">Planner</router-link>
+    <router-link to="/services">Service</router-link>
   </nav>
   <router-view />
 </template>
@@ -15,7 +15,14 @@
   color: #2c3e50;
 }
 
+body {
+  background-color: rgb(241, 241, 241);
+}
+
 nav {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
   padding: 30px;
 
   a {
@@ -23,7 +30,7 @@ nav {
     color: #2c3e50;
 
     &.router-link-exact-active {
-      color: #42b983;
+      color: #ff0000;
     }
   }
 }
