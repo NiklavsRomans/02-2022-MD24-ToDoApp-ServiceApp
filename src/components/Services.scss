@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Dancing+Script:wght@400;500;700&family=Indie+Flower&family=Montserrat&family=Roboto:wght@400;500;700&family=Viga&display=swap');
+
+.service-container {
+    margin: 0 auto;
+    background-color: #5997b5;
+    max-width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 6px;
+    border-radius: 4px;
+}
+
+.title {
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+    font-size: 56px;
+    margin: 0;
+    padding: 28px;
+
+}
+
+.selectedButton {
+    background-color: #83ba61;
+    border-color: #83ba61;
+}
+
+.service-total {
+    margin-top: 10px;
+    margin-bottom: 25px;
+    border-top: 1px solid rgba(255, 255, 255, 0.61);
+    max-width: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.total {
+    padding: 17px;
+    color: white;
+    font-weight: 600;
+}
