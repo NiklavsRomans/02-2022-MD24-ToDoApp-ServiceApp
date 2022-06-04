@@ -1,19 +1,5 @@
 # vue-typescript
 
-# Screens
-
-<p align="center">
-  <img src="src\images\work1.png" width="750" title="Planner">
-</p>
-
-<p align="center">
-  <img src="src\images\work2.png" width="750" title="Planner Done">
-</p>
-
-<p align="center">
-  <img src="src\images\work3.png" width="750" title="Services">
-</p>
-
 ## Project setup
 
 ```
