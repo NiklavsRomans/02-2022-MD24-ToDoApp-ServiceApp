@@ -1,5 +1,19 @@
 # vue-typescript
 
+### Screens
+
+<p align="center">
+  <img src="src\images\work1.png" width="750" title="Page 404">
+</p>
+
+<p align="center">
+  <img src="src\images\work2.png" width="750" title="Home Page">
+</p>
+
+<p align="center">
+  <img src="src\images\work3.png" width="750" title="Home Page">
+</p>
+
 ## Project setup
 
 ```
